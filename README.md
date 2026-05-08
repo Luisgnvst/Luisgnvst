@@ -30,8 +30,7 @@ Estudante de **Engenharia de Software** no 5º período na UniEVANGÉLICA — Un
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luisgnvst&show_icons=true&hide_border=true&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luisgnvst&layout=compact&hide_border=true&locale=pt-br)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Luisgnvst&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 ---
 
